@@ -43,7 +43,7 @@ What else?
 ----------
 Investing and Retirement are huge topics; I just wanted to put up the basics to get started and this document can be built upon. Please feel free to contribute ~ for those that know how you can clone and make a PR. The rest of you can RTFM on [how to get your own copy of this document to edit](https://www.google.com/search?q=github+make+a+new+branch) and then [how to submit your changes](https://www.google.com/search?q=github+make+pull+request)
 
-If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ 
+If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ for as little as $1
 
 Lastly
 ------
@@ -55,6 +55,7 @@ Some Links
 
 * [eTrade](https://www.etrade.com) ~ Straight forward investing but they also have the advanced tools to get as sophisticated and technical as you want
 
+* [Cash App](https://www.google.com/search?q=cash+app+download) ~ Phone app to send and receive money and buy stocks for as little as $1
 _______
 
 * [Mutual Fund](https://en.wikipedia.org/wiki/Mutual_fund) ~ Holds multiple stocks as a single unit; designed around some theme (Healthcare, Technology, Large/Small Cap, Growth/Income, Foreign, etc). At the end of the trading day a daily price (NAV - Net Asset Value) is set, and any buy/sell orders are then executed at that price. Just remember -- one daily price.
