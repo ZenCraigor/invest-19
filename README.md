@@ -15,7 +15,7 @@ If you can remember me talking about "the Miracle of Compound Interest" well inv
 The Details
 -----------
 
-1. Pick an online brokerage and create an account. They're all pretty much the same and offer the same basic services -- they just look different in the same way checking accounts at different online banks are pretty much the same with different looking web sites. Try a few and pick a site that seems intuitive to you, or see if your current online bank has an investing option. I use [Ally Bank](https://www.ally.com "I've used Ally for years") and [eTrade](https://www.etrade.com "Back in the day I used to day trade on this site") to keep my Retirement and Personal Investing completely separate.
+1. Pick an online brokerage and create a **Roth IRA account**. Brokerages are all pretty much the same and offer the same basic services -- they just look different in the same way checking accounts at different online banks are pretty much the same with different looking web sites. Try a few and pick a site that seems intuitive to you, or see if your current online bank has an investing option. I use [Ally Bank](https://www.ally.com "I've used Ally for years") and [eTrade](https://www.etrade.com "Back in the day I used to day trade on this site") to keep my Retirement and Personal Investing completely separate.
    * *Make sure the brokerage account you select offers FREE stock trading ~ they pretty much all do now, just make sure*
 
 2. Fund your account. You can start with as much or little as you like. Stocks/ETFs/Mutual Funds will be in the $50-300+ range per share so you may have to let cash accumulate in the account to buy full shares of stocks/ETFs at times. An advantage of mutual funds is that you may buy them in dollar amounts and fractional shares, so you can invest say a flat $50 if you want, whereas with stocks/ETFs you have to buy full shares at its given price. You can even set up automatic investing so $x gets transferred from your account every whatever-timeframe-you-specify, usually monthly or bi-weekly to match payday, whatever.
@@ -43,7 +43,7 @@ What else?
 ----------
 Investing and Retirement are huge topics; I just wanted to put up the basics to get started and this document can be built upon. Please feel free to contribute ~ for those that know how you can clone and make a PR. The rest of you can RTFM on [how to get your own copy of this document to edit](https://www.google.com/search?q=github+make+a+new+branch) and then [how to submit your changes](https://www.google.com/search?q=github+make+pull+request)
 
-
+If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ 
 
 Lastly
 ------
