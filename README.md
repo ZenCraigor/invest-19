@@ -43,6 +43,10 @@ What else?
 ----------
 Investing and Retirement are huge topics; I just wanted to put up the basics to get started and this document can be built upon. Please feel free to contribute ~ for those that know how you can clone and make a PR. The rest of you can RTFM on [how to get your own copy of this document to edit](https://www.google.com/search?q=github+make+a+new+branch) and then [how to submit your changes](https://www.google.com/search?q=github+make+pull+request)
 
+DRIP
+----
+Dividend ReInvestment -- some stocks pay a dividend, you can either have that payment go to your investment account's "cash" area or simply re-invested into whatever stock it is -- and I usually opt for that. If you are happy enough to own the stock/fund, why not have the little bonuses just buy more of the same?
+
 If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ for as little as $1
 
 Lastly
