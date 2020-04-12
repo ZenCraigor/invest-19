@@ -21,7 +21,7 @@ The Details
 
 2. Fund your account. You can start with as much or little as you like. Stocks/ETFs/Mutual Funds will be in the $50-300+ range per share so you may have to let cash accumulate in the account to buy full shares of stocks/ETFs at times. An advantage of mutual funds is that you may buy them in dollar amounts and fractional shares, so you can invest say a flat $50 if you want, whereas with stocks/ETFs you have to buy full shares at its given price. You can even set up automatic investing so $x gets transferred from your account every whatever-timeframe-you-specify, usually monthly or bi-weekly to match payday, whatever.
 
-3. Buy with a Limit Order. Say the price of what you want to buy is bouncing between 88-89. You think it'll go lower so you set a **buy limit order** with a price of $86.50 *and walk away*. If the price of the stock/ETF drops to your limit order price, it'll be purchased. If not, it won't. But you'll only buy it at the pre-set price you rationally decided you were comfortable with ahead of time. So set a price and leave it...walk away. Don't get caught up watching the stock market chart and if the price starts going up change your order to a Market Buy (whatever price it is when the order hits). Don't chase after prices. **Set it and forget it**. If you get caught up in the moment you'll lose money. You can't time the market.
+3. Buy with a [Limit Order](https://en.wikipedia.org/wiki/Order_(exchange)#Limit_order). Say the price of what you want to buy is bouncing between $88-89. You think it'll go lower so you set a **buy limit order** with a price of $86.50 *and walk away*. If the price of the stock/ETF drops to your limit order price, it'll be purchased. If not, it won't. But you'll only buy it at the pre-set price you rationally decided you were comfortable with ahead of time. So set a price and leave it...walk away. Don't get caught up watching the stock market chart and if the price starts going up change your order to a Market Buy (whatever price it is when the order hits). Don't chase after prices. **Set it and forget it**. If you get caught up in the moment you'll lose money. You can't time the market.
 
    * Kids, right now, ALL prices are cheap. Your investment timeline is FOREVER. Remember the Miracle of Compound Interest. Don't chase prices, just buy
 
@@ -40,19 +40,20 @@ Roth IRAs are contributed to with after-tax dollars (remember the income tax wit
    * At age 59.5 you can start to withdraw as much as you wish whenever **completely tax free**. Years and years of stock market gains to just spend and never pay the gov a nickel on the earnings.
    * Before then, there's a tax penalty, and you lose momentum riding the Miracle of Compound Interest *with Multipliers*, so don't. Just don't.
 
-What else?
-----------
-Investing and Retirement are huge topics; I just wanted to put up the basics to get started and this document can be built upon. Please feel free to contribute ~ for those that know how you can clone and make a PR. The rest of you can RTFM on [how to get your own copy of this document to edit](https://www.google.com/search?q=github+make+a+new+branch) and then [how to submit your changes](https://www.google.com/search?q=github+make+pull+request)
-
 DRIP
 ----
 **D**ividend **R**e**I**nvestment **P**lan -- some stocks pay a dividend (sort of like variable interest at a bank savings account), you can either have that payment go to your investment account's "cash" area or simply re-invested into whatever stock it is -- and I usually opt for that. If you are happy enough to own the stock/fund, why not have the little bonuses just buy more of the same? The Miracle of Compound Interest at work!
 
-If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ for as little as $1
+What else?
+----------
+Investing and Retirement are huge topics; I just wanted to put up the basics to get started and this document can be built upon. Please feel free to contribute ~ for those that know how you can clone and make a PR. The rest of you can RTFM on [how to get your own copy of this document to edit](https://www.google.com/search?q=github+make+a+new+branch) and then [how to submit your changes](https://www.google.com/search?q=github+make+pull+request)
 
 Lastly
 ------
 Yes, you can have both a Roth IRA and a 401k IRA, and if your employer has a 401k plan and matches your contributions to it then **definitely take advantage of that** at least up to the percentage of your income that they will match in contributions. Double the investment seed money for free!
+
+### Also
+If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ for as little as $1
 
 Some Links
 ----------
