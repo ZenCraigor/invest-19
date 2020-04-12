@@ -8,14 +8,15 @@ If you can remember me talking about "the Miracle of Compound Interest" well inv
 -------------------------------
 1. Create a Roth IRA account at an online brokerage firm (some banks as well)
 2. Add money to it from your checking account
-3. Buy an S&P 500 Index-Tracking ETF (or Mutual Fund)
-4. Repeat Steps #2 and #3 until you reach the max annual contribution allowed each year
-   * Until April 15th, 2020 you may contribute to the 2019 calendar year against the 2019 max
+3. Buy an S&P 500 Index-Tracking ETF (or Mutual Fund) as a base
+4. Branch out into areas you think will out-perform the S&P 500
+5. Repeat Steps 2, 3, 4 until you reach the max annual contribution allowed each year
+   * Until *JULY* 15th, 2020 you may contribute to the 2019 calendar year against the 2019 max
 
 The Details
 -----------
 
-1. Pick an online brokerage and create a **Roth IRA account**. Brokerages are all pretty much the same and offer the same basic services -- they just look different in the same way checking accounts at different online banks are pretty much the same with different looking web sites. Try a few and pick a site that seems intuitive to you, or see if your current online bank has an investing option. I use [Ally Bank](https://www.ally.com "I've used Ally for years") and [eTrade](https://www.etrade.com "Back in the day I used to day trade on this site") to keep my Retirement and Personal Investing completely separate.
+1. Pick an online brokerage and create a **Roth IRA account**. Brokerages are all pretty much the same and offer the same basic services -- they just look different in the same way checking accounts at different online banks are pretty much the same with different looking web sites. Try a few and pick a site that seems intuitive to you, or see if your current online bank has an investing option. I use [Ally Bank](https://www.ally.com "I've used Ally for years"), [eTrade](https://www.etrade.com "Back in the day I used to day trade on this site"), and [Fidelity](https://www.fidelity.com/go/join-fidelity-investments-now) to keep my Retirement and Personal Investing goals completely separate.
    * *Make sure the brokerage account you select offers FREE stock trading ~ they pretty much all do now, just make sure*
 
 2. Fund your account. You can start with as much or little as you like. Stocks/ETFs/Mutual Funds will be in the $50-300+ range per share so you may have to let cash accumulate in the account to buy full shares of stocks/ETFs at times. An advantage of mutual funds is that you may buy them in dollar amounts and fractional shares, so you can invest say a flat $50 if you want, whereas with stocks/ETFs you have to buy full shares at its given price. You can even set up automatic investing so $x gets transferred from your account every whatever-timeframe-you-specify, usually monthly or bi-weekly to match payday, whatever.
@@ -45,7 +46,7 @@ Investing and Retirement are huge topics; I just wanted to put up the basics to 
 
 DRIP
 ----
-Dividend ReInvestment -- some stocks pay a dividend, you can either have that payment go to your investment account's "cash" area or simply re-invested into whatever stock it is -- and I usually opt for that. If you are happy enough to own the stock/fund, why not have the little bonuses just buy more of the same?
+**D**ividend **R**e**I**nvestment **P**lan -- some stocks pay a dividend (sort of like variable interest at a bank savings account), you can either have that payment go to your investment account's "cash" area or simply re-invested into whatever stock it is -- and I usually opt for that. If you are happy enough to own the stock/fund, why not have the little bonuses just buy more of the same? The Miracle of Compound Interest at work!
 
 If you just want to instant-invest super easy just to get started, you can do so on your phone's version of __*Cash App*__ for as little as $1
 
@@ -58,6 +59,8 @@ Some Links
 * [Ally](https://www.ally.com) ~ online Full-Service bank. No fees, they return ATM fees other banks charge your card, great customer service, and their site is purple. Highly recommended.
 
 * [eTrade](https://www.etrade.com) ~ Straight forward investing but they also have the advanced tools to get as sophisticated and technical as you want
+
+* [Fidelity](https://www.fidelity.com/go/join-fidelity-investments-now) ~ Straight forward investing but they also have the advanced tools to get as sophisticated and technical as you want
 
 * [Cash App](https://www.google.com/search?q=cash+app+download) ~ Phone app to send and receive money and buy stocks for as little as $1
 _______
